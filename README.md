@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
-A curated collection of machine learning projects demonstrating practical applications of supervised and unsupervised learning, data preprocessing, model evaluation, and deep learning techniques. Each project includes detailed notebooks, datasets (where applicable), and insights into problem-solving strategies.
+
+This repository contains hands-on machine learning projects built using Python, scikit-learn, TensorFlow, and other popular libraries. The goal is to apply theoretical concepts to real-world problems while continuously improving model accuracy, interpretability, and performance.
